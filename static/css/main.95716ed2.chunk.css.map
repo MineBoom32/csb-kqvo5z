@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css","webpack://src/mapStyle.css"],"names":[],"mappings":"AAAA,KACE,sBAAuB,CACvB,iBACF,CCHA,UACE,cACF","file":"main.95716ed2.chunk.css","sourcesContent":[".App {\n  font-family: sans-serif;\n  text-align: center;\n}\n",".location {\r\n  stroke: #ff2b84;\r\n}\r\n"]}
